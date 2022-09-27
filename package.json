@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Lia Dias - Fork de Mario Souto / Alura",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/lia-dias/alura-nextjs-01"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
