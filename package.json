@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-curso-01",
+  "version": "1.0.0",
+  "description": "Código base do curso básico de NextJS da Alura. Esse código não está sendo copiado e colado, está sendo feito de acordo com as aulas e pode conter diversas alterações. Link do curso: https://cursos.alura.com.br/course/next-js-iniciando-framework",
+  "main": "index.js",
+  "author": "Lia Dias - Fork de Mario Souto / Alura",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
